@@ -27,9 +27,16 @@ CSS – Styling and layout
 JavaScript – Game logic and sound controls
 
 Screenshot :-
-<img width="2873" height="1554" alt="Screenshot 2025-07-17 140336" src="https://github.com/user-attachments/assets/4833739e-aae2-4443-9d1e-dc87da7e090d" />
-<img width="2773" height="1540" alt="Screenshot 2025-07-17 140405" src="https://github.com/user-attachments/assets/01e38bd8-6b25-4486-9673-ee45bfab965a" />
-<img width="2816" height="1544" alt="Screenshot 2025-07-17 140422" src="https://github.com/user-attachments/assets/482978f7-fc85-4dae-81a9-7944c73b629e" />
+This is front of page
+<img width="2873" height="1554" alt="Screenshot 2025-07-17 140336" src="https://github.com/user-attachments/assets/61bc30bd-e5f5-4b8d-8ae3-63c9699fbaa1" />
+
+start the game
+<img width="2816" height="1544" alt="Screenshot 2025-07-17 140422" src="https://github.com/user-attachments/assets/84b0b0a6-a0a9-4cc2-86c8-fa9497f95c8b" />
+
+win the game
+<img width="2773" height="1540" alt="Screenshot 2025-07-17 140405" src="https://github.com/user-attachments/assets/e87e7e03-1943-4438-bd67-8a42d256f284" />
+
+
 
 
 
