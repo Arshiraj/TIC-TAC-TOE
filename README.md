@@ -31,7 +31,7 @@ JavaScript – Game logic and sound controls
 
 Screenshot :-
 
-This is front of page
+This is front  page
 <img width="2873" height="1554" alt="Screenshot 2025-07-17 140336" src="https://github.com/user-attachments/assets/61bc30bd-e5f5-4b8d-8ae3-63c9699fbaa1" />
 
 start the game
